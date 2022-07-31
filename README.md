@@ -3,14 +3,11 @@
 # PC's star list by language
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [![GitHub star](https://img.shields.io/github/stars/zpc7/star-list?logo=Undertale)](https://github.com/zpc7/star-list/stargazers)
-
 [![HitCount](https://views.whatilearened.today/views/github/zpc7/start-list.svg)](https://github.com/zpc7/start-list)
-
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/zpc7/start-list)
 
-🤩 我的star列表，每天凌晨自动更新 🤩
+🤩 我的star列表(按其主要语言分类)，每天凌晨自动更新 🤩
 
   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="4"/>
   </div>
