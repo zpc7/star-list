@@ -1,10 +1,12 @@
 name: Update my github star list
 
 on:
-  push  
-#  workflow_dispatch:
-#  schedule:
-#    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
