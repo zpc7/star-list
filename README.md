@@ -14,8 +14,8 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
 *   [JavaScript](#javascript)
+*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -35,25 +35,9 @@
 *   [PHP](#php)
 *   [Thanks](#thanks)
 
-## CSS
-
-*   [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
-
-*   [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
-
-*   [progit/progit2-zh](https://github.com/progit/progit2-zh) -
-
-*   [d2-projects/folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
-
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-
-*   [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
-
-*   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-
-*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
-
 ## JavaScript
+
+*   [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 
 *   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
 
@@ -190,6 +174,24 @@
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 *   [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+
+## CSS
+
+*   [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
+
+*   [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+
+*   [progit/progit2-zh](https://github.com/progit/progit2-zh) -
+
+*   [d2-projects/folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
+
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
+
+*   [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+
+*   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+
+*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
 
 ## miscellaneous
 
@@ -374,8 +376,6 @@
 *   [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
 
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 ## Zig
 
