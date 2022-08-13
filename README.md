@@ -319,7 +319,7 @@
 
 *   [ant-design/cssinjs](https://github.com/ant-design/cssinjs) -
 
-*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 
 *   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 
