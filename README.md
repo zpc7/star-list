@@ -262,7 +262,7 @@
 
 *   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
 
-*   [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+*   [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
 
 *   [hustcc/timeago-react](https://github.com/hustcc/timeago-react) - :clock8: Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
 
